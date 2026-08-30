@@ -187,4 +187,6 @@ Python-Journey/
 - [ ] Day 099
 - [ ] Day 100
 
-work in progress
+---
+
+**This repository will continue to grow as I progress through the course.**
