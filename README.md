@@ -1,2 +1,2 @@
 # Python-Journey
-My journey through the 100 Days of Code: The Complete Python Pro Bootcamp.
+Documenting my progress through the 100 Days of Python challenge with projects, exercises and notes.
